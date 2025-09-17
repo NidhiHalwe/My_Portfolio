@@ -26,7 +26,7 @@ export default function About() {
       >
         I'm <span className="font-semibold text-teal-500">Nidhi Halwe</span>, a passionate web developer with a strong foundation in 
         frontend technologies and a keen interest in building interactive and responsive web applications. 
-        I specialize in React, Tailwind CSS, and creating projects that are visually appealing, performant, and user-friendly.
+        I specialize in JavaScript, React, Tailwind CSS, Node.js and creating projects that are visually appealing, performant, and user-friendly.
         I continuously challenge myself by solving DSA problems and implementing real-world projects to enhance my skills.
       </motion.p>
     </section>

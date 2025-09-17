@@ -2,7 +2,7 @@ import React from "react";
 import { motion } from "framer-motion";
 
 const achievements = [
-  "Solved 150+ DSA problems on LeetCode using Java",
+  "Solved 200+ DSA problems on LeetCode using Java",
   "Built 5+ frontend projects with clean UI and 85%+ user satisfaction",
   "Continuously improving development and problem-solving skills through self-learning"
 ];

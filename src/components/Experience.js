@@ -5,7 +5,7 @@ const experiences = [
   {
     role: "Web Development Intern",
     company: "Codsoft",
-    duration: "Nov 2022–Present",
+    duration: "Mar 2024–Apr 2024",
     details: [
       "Designed and built responsive web pages using HTML, CSS, and JavaScript.",
       "Developed projects like Todo List and Calculator to demonstrate interaction and logic.",

@@ -2,6 +2,11 @@ import React from "react";
 import { motion } from "framer-motion";
 
 const projects = [
+  {
+    title: "Employee_Management_Portal",
+    description: "A responsive Employee Management Portal that allows users to efficiently manage employee records, track attendance, and update details. Built with a clean and intuitive UI, optimized for seamless use across devices.",
+    link: "https://nidhihalwe.github.io/Employee_Management_Portal/"
+  },
     {
     title: "Sorting Visualizer",
     description: "An interactive web app to visualize popular sorting algorithms like Bubble, Merge, and Quick Sort. Includes animations to demonstrate step-by-step execution, enhancing understanding of algorithm efficiency.",
@@ -13,14 +18,9 @@ const projects = [
     link: "https://nidhihalwe.github.io/Pantry_Tracker/"
   },
   {
-    title: "Temperature Converter",
-    description: "A responsive temperature converter that allows users to easily convert values between Celsius and Fahrenheit. Built with clean UI and optimized for usability across devices.",
-    link: "https://nidhihalwe.github.io/Temperature_Convertor/"
-  },
-  {
-    title: "Calculator",
-    description: "A modern and responsive calculator with a clean UI, built using HTML, CSS, and JavaScript. Provides smooth user experience with basic arithmetic operations on all devices.",
-    link: "https://nidhihalwe.github.io/Calculator/"
+    title: "Timer-Stopwatch",
+    description: "A modern and responsive Timer-Stopwatch built with React and JavaScript. Features start, stop, and reset functionality with a clean, intuitive interface optimized for all devices.",
+    link: "https://nidhihalwe.github.io/Timer-StopWatch/"
   }
 ];
 
